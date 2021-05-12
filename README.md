@@ -1,6 +1,6 @@
 # Learning Box
 
-Learning Box - a fun learning resource for primary school age children.
+Learning Box is a fun learning resource for primary school age children.
 
 # Index
 * Setup
@@ -10,6 +10,7 @@ Learning Box - a fun learning resource for primary school age children.
 
 # Setup
 If you don’t have Node.js installed, install it first. Then,
+
 1. Clone from GitHub
     1. go to ‘Code’ dropdown and grab the SSH key.
     2. locally in terminal, create and cd into a new folder.
@@ -26,11 +27,12 @@ If you don’t have Node.js installed, install it first. Then,
     1. in server: npm start
     2. in client: npm start
 
-These start commands should open a browser window with the address http://localhost:3000/ with the app now available to use
+These start commands should open a browser window with the address http://localhost:3000/ with the app now available to use.
 
 # What is it?
 Learning Box is the result of a group project of three people selected by the class tutors at CodeClan. The brief was handed to us on the Thursday afternoon and submission was noon the following Wednesday.
-The brief
+
+# The brief
 The brief was to create a prototype of an interactive browser application that displays educational information in a fun and interesting way. The app must use an API or database.
 
 The tech stack is:
@@ -40,7 +42,7 @@ The tech stack is:
 * Node.js
 * JavaScript
 
-# Working style & planning
+# Planning
 The group used Agile working methods, met daily for stand ups, and worked through tasks organised on a Trello board. Below are one each of our user stories and wireframes from the start of the project.
 Features branches were created to work on tasks locally.
 
